@@ -1,0 +1,56 @@
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\Punto de Venta.exe.config
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\Punto de Venta.exe.manifest
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\Punto de Venta.application
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\Punto de Venta.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\Punto de Venta.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\BACKEND.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\MySql.Data.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\BACKEND.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\BACKEND.dll.config
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\MySql.Data.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\FRONTEND.csproj.AssemblyReference.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\FRONTEND.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.frmEmpleado.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.frmEmpleadosInactivos.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.frmLogin.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.frmMenu.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.frmPresEmpleados.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.frmPresProductos.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.frmPresVentas.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.frmProducto.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.frmProductosInactivos.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.frmVentas.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Productos.Properties.Resources.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\FRONTEND.csproj.GenerateResource.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\FRONTEND.csproj.CoreCompileInputs.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Punto de Venta.exe.manifest
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Punto de Venta.application
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\FRONTEND.csproj.CopyComplete
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Punto de Venta.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Punto de Venta.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\itextsharp.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\Google.Protobuf.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.Memory.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.Buffers.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\itextsharp.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\Google.Protobuf.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\Google.Protobuf.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.Memory.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Debug\System.Buffers.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Debug\Punto de Venta.exe.config

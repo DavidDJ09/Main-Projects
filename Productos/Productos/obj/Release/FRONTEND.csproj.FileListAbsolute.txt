@@ -1,0 +1,38 @@
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\FRONTEND.csproj.AssemblyReference.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\FRONTEND.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.frmEmpleado.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.frmEmpleadosInactivos.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.frmLogin.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.frmMenu.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.frmPresEmpleados.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.frmPresProductos.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.frmPresVentas.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.frmProducto.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.frmProductosInactivos.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.frmVentas.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\FRONTEND.csproj.GenerateResource.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\FRONTEND.csproj.CoreCompileInputs.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\BACKEND.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\MySql.Data.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\ZstdNet.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\System.Buffers.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\BACKEND.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\BACKEND.dll.config
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\MySql.Data.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\System.Buffers.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Productos.Properties.Resources.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\FRONTEND.csproj.CopyComplete
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\Punto de Venta.exe.config
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\Punto de Venta.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\Punto de Venta.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Punto de Venta.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Punto de Venta.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\Punto de Venta.exe.manifest
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\bin\Release\Punto de Venta.application
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Punto de Venta.exe.manifest
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Productos\Productos\obj\Release\Punto de Venta.application

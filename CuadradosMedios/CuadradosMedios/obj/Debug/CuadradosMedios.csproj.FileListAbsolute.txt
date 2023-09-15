@@ -1,0 +1,12 @@
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\bin\Debug\CuadradosMedios.exe.config
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\bin\Debug\CuadradosMedios.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\bin\Debug\CuadradosMedios.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\obj\Debug\CuadradosMedios.csproj.AssemblyReference.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\obj\Debug\CuadradosMedios.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\obj\Debug\CuadradosMedios.Form1.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\obj\Debug\CuadradosMedios.Properties.Resources.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\obj\Debug\CuadradosMedios.csproj.GenerateResource.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\obj\Debug\CuadradosMedios.csproj.CoreCompileInputs.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\obj\Debug\CuadradosMedios.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\obj\Debug\CuadradosMedios.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\CuadradosMedios\CuadradosMedios\obj\Debug\CuadradosMedios.Form2.resources

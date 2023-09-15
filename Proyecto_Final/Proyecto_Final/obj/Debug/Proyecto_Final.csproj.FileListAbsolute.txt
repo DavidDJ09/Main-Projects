@@ -1,0 +1,12 @@
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.frmInicioSesion.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.frmMenu.resources

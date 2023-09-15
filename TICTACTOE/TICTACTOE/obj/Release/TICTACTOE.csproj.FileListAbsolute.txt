@@ -1,0 +1,15 @@
+E:\TICTACTOE\TICTACTOE\bin\Release\TICTACTOE.exe.config
+E:\TICTACTOE\TICTACTOE\bin\Release\TICTACTOE.exe.manifest
+E:\TICTACTOE\TICTACTOE\bin\Release\TICTACTOE.application
+E:\TICTACTOE\TICTACTOE\bin\Release\TICTACTOE.exe
+E:\TICTACTOE\TICTACTOE\bin\Release\TICTACTOE.pdb
+E:\TICTACTOE\TICTACTOE\obj\Release\TICTACTOE.csproj.AssemblyReference.cache
+E:\TICTACTOE\TICTACTOE\obj\Release\TICTACTOE.csproj.SuggestedBindingRedirects.cache
+E:\TICTACTOE\TICTACTOE\obj\Release\TICTACTOE.TICTACTOE.resources
+E:\TICTACTOE\TICTACTOE\obj\Release\TICTACTOE.Properties.Resources.resources
+E:\TICTACTOE\TICTACTOE\obj\Release\TICTACTOE.csproj.GenerateResource.cache
+E:\TICTACTOE\TICTACTOE\obj\Release\TICTACTOE.csproj.CoreCompileInputs.cache
+E:\TICTACTOE\TICTACTOE\obj\Release\TICTACTOE.exe.manifest
+E:\TICTACTOE\TICTACTOE\obj\Release\TICTACTOE.application
+E:\TICTACTOE\TICTACTOE\obj\Release\TICTACTOE.exe
+E:\TICTACTOE\TICTACTOE\obj\Release\TICTACTOE.pdb

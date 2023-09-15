@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E92DD4E3-4B53-4014-ABC4-F5AF214618DE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>P._2._1_DESARROLLO_DE_SW</RootNamespace>
+    <AssemblyName>P.2.1 DESARROLLO DE SW</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MathNet.Numerics, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathNet.Numerics.5.0.0\lib\net48\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCuadradosMedios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCuadradosMedios.Designer.cs">
+      <DependentUpon>frmCuadradosMedios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDescripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDescripcion.Designer.cs">
+      <DependentUpon>frmDescripcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDescripcionPruebasMV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDescripcionPruebasMV.Designer.cs">
+      <DependentUpon>frmDescripcionPruebasMV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMulConstante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMulConstante.Designer.cs">
+      <DependentUpon>frmMulConstante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductosMedios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductosMedios.Designer.cs">
+      <DependentUpon>frmProductosMedios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPruebasMedias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPruebasMedias.Designer.cs">
+      <DependentUpon>frmPruebasMedias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPruebasVarianza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPruebasVarianza.Designer.cs">
+      <DependentUpon>frmPruebasVarianza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPruebaUniformidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPruebaUniformidad.Designer.cs">
+      <DependentUpon>frmPruebaUniformidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCuadradosMedios.resx">
+      <DependentUpon>frmCuadradosMedios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDescripcion.resx">
+      <DependentUpon>frmDescripcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDescripcionPruebasMV.resx">
+      <DependentUpon>frmDescripcionPruebasMV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMulConstante.resx">
+      <DependentUpon>frmMulConstante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductosMedios.resx">
+      <DependentUpon>frmProductosMedios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPruebasMedias.resx">
+      <DependentUpon>frmPruebasMedias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPruebasVarianza.resx">
+      <DependentUpon>frmPruebasVarianza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPruebaUniformidad.resx">
+      <DependentUpon>frmPruebaUniformidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoItsur.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flecha-derecha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engranajes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verificado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\regreso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculadora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculadora %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hoja-de-balance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\informacion.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

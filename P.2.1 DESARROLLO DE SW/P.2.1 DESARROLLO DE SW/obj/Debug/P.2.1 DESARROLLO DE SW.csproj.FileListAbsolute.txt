@@ -1,0 +1,22 @@
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\bin\Debug\P.2.1 DESARROLLO DE SW.exe.config
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\bin\Debug\P.2.1 DESARROLLO DE SW.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\bin\Debug\P.2.1 DESARROLLO DE SW.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\bin\Debug\MathNet.Numerics.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\bin\Debug\MathNet.Numerics.xml
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P.2.1 DESARROLLO DE SW.csproj.AssemblyReference.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P.2.1 DESARROLLO DE SW.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P._2._1_DESARROLLO_DE_SW.frmCuadradosMedios.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P._2._1_DESARROLLO_DE_SW.frmDescripcion.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P._2._1_DESARROLLO_DE_SW.frmDescripcionPruebasMV.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P._2._1_DESARROLLO_DE_SW.frmMenu.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P._2._1_DESARROLLO_DE_SW.frmMulConstante.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P._2._1_DESARROLLO_DE_SW.frmProductosMedios.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P._2._1_DESARROLLO_DE_SW.frmPruebasMedias.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P._2._1_DESARROLLO_DE_SW.frmPruebasVarianza.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P._2._1_DESARROLLO_DE_SW.frmPruebaUniformidad.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P._2._1_DESARROLLO_DE_SW.Properties.Resources.resources
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P.2.1 DESARROLLO DE SW.csproj.GenerateResource.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P.2.1 DESARROLLO DE SW.csproj.CoreCompileInputs.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P.2.1 DESARROLLO DE SW.csproj.CopyComplete
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P.2.1 DESARROLLO DE SW.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\P.2.1 DESARROLLO DE SW\P.2.1 DESARROLLO DE SW\obj\Debug\P.2.1 DESARROLLO DE SW.pdb

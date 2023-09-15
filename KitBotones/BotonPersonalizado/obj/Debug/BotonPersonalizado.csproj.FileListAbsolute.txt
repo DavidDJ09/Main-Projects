@@ -1,0 +1,6 @@
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\KitBotones\BotonPersonalizado\bin\Debug\BotonPersonalizado.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\KitBotones\BotonPersonalizado\bin\Debug\BotonPersonalizado.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\KitBotones\BotonPersonalizado\obj\Debug\BotonPersonalizado.csproj.AssemblyReference.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\KitBotones\BotonPersonalizado\obj\Debug\BotonPersonalizado.csproj.CoreCompileInputs.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\KitBotones\BotonPersonalizado\obj\Debug\BotonPersonalizado.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\KitBotones\BotonPersonalizado\obj\Debug\BotonPersonalizado.pdb

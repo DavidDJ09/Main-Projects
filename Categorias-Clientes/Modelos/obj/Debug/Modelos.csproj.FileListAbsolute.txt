@@ -1,0 +1,6 @@
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Categorias-Clientes\Modelos\bin\Debug\Modelos.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Categorias-Clientes\Modelos\bin\Debug\Modelos.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Categorias-Clientes\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Categorias-Clientes\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Categorias-Clientes\Modelos\obj\Debug\Modelos.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Categorias-Clientes\Modelos\obj\Debug\Modelos.pdb
